@@ -10,11 +10,4 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
 
 Selamat menginap!
 
-hotel-del-jojo/
-|-- asisten
-|   `-- asisten.txt
-|-- bos
-`-- manager
-    `-- data-manager.txt
-
-3 directories, 2 files
+![no2_tree](https://user-images.githubusercontent.com/119756091/206351753-a6b28417-2299-4334-a551-a933b6890f29.jpg)
