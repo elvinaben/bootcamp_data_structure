@@ -9,3 +9,12 @@ Berikut adalah harga dari kamar-kamar yang kami punya:
 | 4 | Bar        | ₩1,250,0000 |
 
 Selamat menginap!
+
+hotel-del-jojo/
+|-- asisten
+|   `-- asisten.txt
+|-- bos
+`-- manager
+    `-- data-manager.txt
+
+3 directories, 2 files
